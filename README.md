@@ -3,6 +3,10 @@
 SUMMARIZE YOUTUBE VIDEOS AND IDENTIFY THE IMPORTANT IDEAS AND FACTS OF VIDEOS.
 EXTRACTING IMPORTANT FACTS FROM LENGTHY YOUTUBE VIDEO
 
+# WORKING AND SAMPLES 
+We have shown samples of our app in sample folder and a video describing how it works!!
+You should definitely check out *
+
 # System design
 
 We have created a back-end application directory containing files written in Python that is Streamlit
